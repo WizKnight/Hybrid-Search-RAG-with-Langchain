@@ -1,6 +1,6 @@
 langchain
-python-dotenv
 ipykernel
+python-dotenv
 langchain-community
 pypdf2
 beautifulsoup4
@@ -9,7 +9,7 @@ PyMuPDF
 wikipedia
 langchain-text-splitters
 openai
-chromadb
+#chromadb
 sentence-transformers
 langchain-huggingface  
 faiss-cpu
